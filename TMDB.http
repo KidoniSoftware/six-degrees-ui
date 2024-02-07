@@ -1,0 +1,6 @@
+# TMDB
+
+###
+# @name GetMovie
+GET https://api.themoviedb.org/3/movie/11
+Authorization: Bearer {{bearerToken}}
